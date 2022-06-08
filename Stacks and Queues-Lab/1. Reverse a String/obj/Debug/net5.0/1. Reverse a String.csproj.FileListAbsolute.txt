@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.exe
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.deps.json
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.json
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.dll
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.pdb
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.dll
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\refint\1. Reverse a String.dll
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.pdb
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\SoftUni\C# Advanced\Stacks and Queues\Stacks and Queues\1. Reverse a String\obj\Debug\net5.0\ref\1. Reverse a String.dll
